@@ -1,7 +1,7 @@
 # Descrição
 A proposta deste projeto é criar uma máquina capaz de cozinhar panquecas americanas de maneira totalmente automática. 
 
-![[panquecas.jpg]]
+![panquecas](panquecas.jpg)
 
 Para isso, a linha de produção pode ser dividida em:
 1. Escolha de características pelo cliente (tempo de cocção, c/s manteiga, c/s mel)
