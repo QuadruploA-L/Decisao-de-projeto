@@ -8,7 +8,8 @@ Um exemplo de sistema similar é apresentado na Figura 01, onde observa-se uma e
 
 A embarcação funciona por meio de uma propulsão diferencial, onde o robô vai na direção dos resíduos que deseja coletar, permitindo que a esteira os coloque dentro de sua lixeira. Para isso, o robô necessita localizar onde o lixo se encontra, podendo utilizar sensores ou apenas uma rota pré-definida, onde foi visto que haveria resíduos no local, uma vez que a embarcação necessita ser assistida.
 
-![USV.jpeg]
+![Figura 01 – Exemplo de robô de limpeza aquática.](USV.jpeg)
+
 Figura 01 – Exemplo de robô de limpeza aquática.
 
 Para o desenvolvimento do protótipo, será utilizada uma estrutura baseada em dois cascos de madeira compensada, garantindo flutuabilidade e estabilidade. O sistema contará com uma esteira motorizada responsável por coletar os resíduos e direcioná-los para um compartimento interno de armazenamento.
